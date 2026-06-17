@@ -16,7 +16,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ### Lección 2:
  
-### Lección 3: Métodos y Entrada de Datos
+### Lección 3: Métodos y Entrada de Datos (11 minutos)
 
 - **Descripción**: Crea métodos reutilizables, organiza tu código y usa la entrada por consola con Scanner.
 - **Enlace**: [Ver la lección](https://youtu.be/a9kohIpDhKE)
@@ -39,7 +39,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 |-------------------|------------------------------|---------------------------------------------------------------------|
 | 1                 | -                | [a](link aca)                         |
 | 2                 | - | [a](link a)                         |
-| 3                 | Métodos y Entrada de Datos            | [a](https://www.jdoodle.com/ia/1UaN)    |
+| 3                 | Métodos y Entrada de Datos            | [OnlineGDB](https://www.jdoodle.com/ia/1UaN)    |
 | 4                 | -             | [OnlineGDB](link aca)                        |
 | 5                 | -           | [a](link aca)                         |
 
@@ -54,7 +54,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 **Universidad Peruana de Ciencias Aplicadas**  
 **Carrera:** Ingeniería de Software  
 **Curso:** 1ASI0729 Desarrollo de Aplicaciones Open Source  
-**Período:** 202520  
+**Período:** 202601  
 **NRC:** 10155
 
 **Nombre del equipo:** instalert 
