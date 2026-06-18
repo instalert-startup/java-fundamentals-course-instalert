@@ -47,7 +47,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 | 4                 | -             | [OnlineGDB](link aca)                        |
 | 5                 | Encapsulamiento, Arrays y Proyecto Final           | [OnlineGDB](https://www.jdoodle.com/ia/1UaN)                         |
 
-- Cuestionario: [Prueba de conocimientos](aqui va el forms)  
+- Cuestionario: [Prueba de conocimientos](https://docs.google.com/forms/d/e/1FAIpQLSfyo58U3UCk7QM8tONF8AoqDENvdDvrAKE4vAzdB75PyrghMg/viewform?usp=sharing&ouid=116422670498664797795)  
 - Compartir: #JavaBeginners
   
 **¡Gracias por completar el curso!**
