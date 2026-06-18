@@ -47,14 +47,14 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 * **Descripción**: Aprende los fundamentos de la programación orientada a objetos creando clases, objetos y constructores sencillos.
 * **Enlace**: [Ver la lección](https://youtu.be/MSKnbn4z0Mc)
 * **Conclusiones clave**: Las clases permiten modelar objetos del mundo real; los objetos almacenan datos y comportamientos; los constructores facilitan la creación de instancias.
-* **Práctica**: [Clic para programar](https://www.onlinegdb.com/online_java_compiler) 👈 **¡Inicio inmediato!**
+* **Práctica**: [Clic para programar](https://www.jdoodle.com/ia/1UcY) 👈 **¡Inicio inmediato!**
 
 ### Lección 5: Encapsulación, Arrays y Proyecto Final (15 minutos)
 
 * **Descripción**: Aprende a proteger los datos de tus objetos usando la encapsulación (Getters y Setters), organiza múltiples elementos con Arrays y aplica todo lo aprendido construyendo un sistema de registro real.
 * **Enlace**: [Ver la lección](https://youtu.be/q2S2KC-0J5A)
 * **Conclusiones clave**: La encapsulación evita que los datos sean modificados incorrectamente; los Arrays permiten manejar listas de objetos; integrar todos los temas da vida a aplicaciones funcionales.
-* **Práctica**: [Clic para programar](https://www.jdoodle.com/ia/1Uck) 👈 **¡Inicio inmediato!**
+* **Práctica**: [Clic para programar](https://www.jdoodle.com/ia/1UcZ) 👈 **¡Inicio inmediato!**
 
 ---
 
