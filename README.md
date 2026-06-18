@@ -27,6 +27,10 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ### Lección 5: 
 
+- **Descripción**: Aprende a proteger los datos de tus objetos usando la encapsulación (Getters y Setters), organiza múltiples elementos con Arrays y aplica todo lo aprendido construyendo un sistema de registro real.
+- **Enlace**: [Ver la lección](https://youtu.be/e5hgzq6KpEo)
+- **Conclusiones clave**: La encapsulación evita que los datos sean modificados incorrectamente; los Arrays permiten manejar listas de objetos; integrar todos los temas (variables, bucles, clases y arrays) da vida a aplicaciones funcionales.
+- **Práctica**: [Clic para programar](https://www.jdoodle.com/ia/1Uck) 👈 **¡Inicio inmediato!**
 
 
 ---
@@ -41,7 +45,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 | 2                 | - | [a](link a)                         |
 | 3                 | Métodos y Entrada de Datos            | [OnlineGDB](https://www.jdoodle.com/ia/1UaN)    |
 | 4                 | -             | [OnlineGDB](link aca)                        |
-| 5                 | -           | [a](link aca)                         |
+| 5                 | Encapsulamiento, Arrays y Proyecto Final           | [OnlineGDB](https://www.jdoodle.com/ia/1UaN)                         |
 
 - Cuestionario: [Prueba de conocimientos](aqui va el forms)  
 - Compartir: #JavaBeginners
@@ -54,16 +58,16 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 **Universidad Peruana de Ciencias Aplicadas**  
 **Carrera:** Ingeniería de Software  
 **Curso:** 1ASI0729 Desarrollo de Aplicaciones Open Source  
-**Período:** 202601  
+**Periodo:** 202601  
 **NRC:** 10155
 
-**Nombre del equipo:** instalert 
+**Nombre del equipo:** Instalert 
 
 **Líder del equipo:**: 
 
 **Integrantes:**  
 - Jhoan Darner Janampa Gutierrez  
-- 
+- Sebastian Victor Andre Diaz Mendoza
 -  
 - 
 -  
