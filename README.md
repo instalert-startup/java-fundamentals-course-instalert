@@ -17,9 +17,9 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 ### Lección 1: Introducción a la Programación y Java (10 minutos)
 
 * **Descripción**: Aprende qué es la programación, cómo funcionan los programas y por qué Java es uno de los lenguajes más utilizados en el mundo.
-* **Enlace**: [Ver la lección](PEGAR_ENLACE_YOUTUBE_AQUI)
+* **Enlace**: [Ver la lección](https://youtu.be/O_qcIjLtU10)
 * **Conclusiones clave**: La programación permite resolver problemas mediante instrucciones; Java es multiplataforma y ampliamente utilizado en aplicaciones reales.
-* **Práctica**: [Clic para programar](https://www.onlinegdb.com/online_java_compiler) 👈 **¡Inicio inmediato!**
+* **Práctica**: [Clic para programar](https://www.jdoodle.com/ia/1UcT) 👈 **¡Inicio inmediato!**
 
 ### Lección 2: Operadores, Condicionales y Bucles (12-15 minutos)
 
@@ -59,7 +59,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 | Número de lección | Actividad                              | Empezar a programar                            |
 | ----------------- | -------------------------------------- | ---------------------------------------------- |
-| 1                 | Introducción a Java                    | https://www.onlinegdb.com/online_java_compiler |
+| 1                 | Introducción a Java                    | https://www.jdoodle.com/ia/1UcT |
 | 2                 | Operadores, Condicionales y Bucles     | https://www.onlinegdb.com/online_java_compiler |
 | 3                 | Métodos y Entrada de Datos             | https://www.jdoodle.com/ia/1UaN                |
 | 4                 | Clases, Objetos y Constructores        | https://www.onlinegdb.com/online_java_compiler |
@@ -89,5 +89,6 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 * Jhoan Darner Janampa Gutierrez
 * Sebastian Victor Andre Diaz Mendoza
 * Piero Leonardo Molina Falcón
+* Breithner Rodolfo Perez Encarnacion
 
 **Fecha de entrega:** 18/06/2026
