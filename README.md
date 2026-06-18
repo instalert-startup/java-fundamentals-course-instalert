@@ -38,7 +38,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 ### Lección 3: Métodos y Entrada de Datos (11 minutos)
 
 * **Descripción**: Crea métodos reutilizables, organiza tu código y usa la entrada por consola con Scanner.
-* **Enlace**: [Ver la lección](https://youtu.be/a9kohIpDhKE)
+* **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=a9kohIpDhKE&list=PLjT7WXd7OwqmeYNnz6yhCfgf2sAaGAJk8&index=8)
 * **Conclusiones clave**: Los métodos ayudan a dividir el código en partes reutilizables; la entrada/salida permite interactuar con el usuario.
 * **Práctica**: [Clic para programar](https://www.jdoodle.com/online-java-compiler) 👈 **¡Inicio inmediato!**
 
