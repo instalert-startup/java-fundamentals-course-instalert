@@ -63,7 +63,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 **Nombre del equipo:** Instalert 
 
-**Líder del equipo:**: 
+**Líder del equipo:**: Sebastian Victor Andre Diaz Mendoza
 
 **Integrantes:**  
 - Jhoan Darner Janampa Gutierrez  
