@@ -23,7 +23,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 ### Lección 1: Introducción a la Programación y Java (10 minutos)
 
 * **Descripción**: Aprende qué es la programación, cómo funcionan los programas y por qué Java es uno de los lenguajes más utilizados en el mundo.
-* **Enlace**: [Ver la lección](https://youtu.be/O_qcIjLtU10)
+* **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=O_qcIjLtU10&list=PLjT7WXd7OwqmeYNnz6yhCfgf2sAaGAJk8&index=1)
 * **Conclusiones clave**: La programación permite resolver problemas mediante instrucciones; Java es multiplataforma y ampliamente utilizado en aplicaciones reales.
 * **Práctica**: [Clic para programar](https://www.jdoodle.com/ia/1UcT) 👈 **¡Inicio inmediato!**
 
