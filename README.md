@@ -69,8 +69,8 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 | 1                 | Introducción a Java                    | https://www.jdoodle.com/ia/1UcT |
 | 2                 | Operadores, Condicionales y Bucles     | https://www.onlinegdb.com/online_java_compiler |
 | 3                 | Métodos y Entrada de Datos             | https://www.jdoodle.com/ia/1UaN                |
-| 4                 | Clases, Objetos y Constructores        | https://www.onlinegdb.com/online_java_compiler |
-| 5                 | Encapsulación, Arrays y Proyecto Final | https://www.jdoodle.com/ia/1UaN                |
+| 4                 | Clases, Objetos y Constructores        | https://www.jdoodle.com/ia/1UcY                |
+| 5                 | Encapsulación, Arrays y Proyecto Final | https://www.jdoodle.com/ia/1UcZ                |
 
 * **Cuestionario:** https://docs.google.com/forms/d/e/1FAIpQLSfyo58U3UCk7QM8tONF8AoqDENvdDvrAKE4vAzdB75PyrghMg/viewform
 * **Compartir:** #JavaBeginners
