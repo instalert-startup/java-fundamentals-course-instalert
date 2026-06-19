@@ -20,14 +20,14 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ## Secuencia de la Lección
 
-### Lección 1: Introducción a la Programación y Java (10 minutos)
+### Lección 1: Introducción a la Programación y Java (7 minutos)
 
 * **Descripción**: Aprende qué es la programación, cómo funcionan los programas y por qué Java es uno de los lenguajes más utilizados en el mundo.
 * **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=O_qcIjLtU10&list=PLjT7WXd7OwqmeYNnz6yhCfgf2sAaGAJk8&index=1)
 * **Conclusiones clave**: La programación permite resolver problemas mediante instrucciones; Java es multiplataforma y ampliamente utilizado en aplicaciones reales.
 * **Práctica**: [Clic para programar](https://www.jdoodle.com/ia/1UcT) 👈 **¡Inicio inmediato!**
 
-### Lección 2: Operadores, Condicionales y Bucles (12-15 minutos)
+### Lección 2: Operadores, Condicionales y Bucles (25 minutos)
 
 * **Descripción**: Aprende a realizar operaciones matemáticas, comparar valores, tomar decisiones con estructuras if-else y repetir acciones utilizando bucles for y while.
 * **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=nbdAOsjBiYE&list=PLjT7WXd7OwqmeYNnz6yhCfgf2sAaGAJk8&index=3)
@@ -42,7 +42,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 * **Conclusiones clave**: Los métodos ayudan a dividir el código en partes reutilizables; la entrada/salida permite interactuar con el usuario.
 * **Práctica**: [Clic para programar](https://www.jdoodle.com/ia/1UaN) 👈 **¡Inicio inmediato!**
 
-### Lección 4: Clases, Objetos y Constructores (12 minutos)
+### Lección 4: Clases, Objetos y Constructores (9 minutos)
 
 * **Descripción**: Aprende los fundamentos de la programación orientada a objetos creando clases, objetos y constructores sencillos.
 * **Enlace**: [Ver la lección](https://youtu.be/MSKnbn4z0Mc)
