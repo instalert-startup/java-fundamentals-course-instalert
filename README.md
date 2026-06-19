@@ -12,7 +12,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 **Herramientas necesarias:** **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)
 
-**📂 Repositorio de Código Fuente**: https://github.com/instalert-startup/java-fundamentals-course-instalert.git
+**📂 Repositorio de Código Fuente**: [https://github.com/instalert-startup/java-fundamentals-course-instalert.git](https://github.com/instalert-startup/java-fundamentals-course-instalert.git)
 
 **🎥 Playlist completa del curso:** [Ver playlist](https://www.youtube.com/playlist?list=PLjT7WXd7OwqmeYNnz6yhCfgf2sAaGAJk8)
 
@@ -32,7 +32,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 * **Descripción**: Aprende a realizar operaciones matemáticas, comparar valores, tomar decisiones con estructuras if-else y repetir acciones utilizando bucles for y while.
 * **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=nbdAOsjBiYE&list=PLjT7WXd7OwqmeYNnz6yhCfgf2sAaGAJk8&index=3)
 * **Conclusiones clave**: Los operadores permiten realizar cálculos y comparaciones; las estructuras if-else ayudan a tomar decisiones; los bucles for y while permiten repetir tareas automáticamente.
-* **Práctica**: [Clic para programar](https://www.onlinegdb.com/online_java_compiler) 👈 **¡Inicio inmediato!**
+* **Práctica**: [Clic para programar](https://onlinegdb.com/19ZZO-V03) 👈 **¡Inicio inmediato!**
 
 
 ### Lección 3: Métodos y Entrada de Datos (11 minutos)
@@ -40,7 +40,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 * **Descripción**: Crea métodos reutilizables, organiza tu código y usa la entrada por consola con Scanner.
 * **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=a9kohIpDhKE&list=PLjT7WXd7OwqmeYNnz6yhCfgf2sAaGAJk8&index=8)
 * **Conclusiones clave**: Los métodos ayudan a dividir el código en partes reutilizables; la entrada/salida permite interactuar con el usuario.
-* **Práctica**: [Clic para programar](https://www.jdoodle.com/online-java-compiler) 👈 **¡Inicio inmediato!**
+* **Práctica**: [Clic para programar](https://www.jdoodle.com/ia/1UaN) 👈 **¡Inicio inmediato!**
 
 ### Lección 4: Clases, Objetos y Constructores (12 minutos)
 
@@ -57,6 +57,8 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 * **Práctica**: [Clic para programar](https://www.jdoodle.com/ia/1UcZ) 👈 **¡Inicio inmediato!**
 
 ---
+
+<div style="break-before: page;"></div>
 
 ## Recursos adicionales
 
